@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+._*
+fonts/
+master_ufo/
+instance_ufo/
+master_ttf/
+master_otf/
+fontbakery-report*
